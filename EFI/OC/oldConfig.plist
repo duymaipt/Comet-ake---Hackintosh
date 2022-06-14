@@ -973,6 +973,46 @@
                     <key>TextMode</key>
                     <false/>
                 </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Auxiliary</key>
+                    <true/>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Flavour</key>
+                    <string>Auto</string>
+                    <key>Name</key>
+                    <string>CFGLock</string>
+                    <key>Path</key>
+                    <string>CFGLock.efi</string>
+                    <key>RealPath</key>
+                    <true/>
+                    <key>TextMode</key>
+                    <true/>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Auxiliary</key>
+                    <true/>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Flavour</key>
+                    <string>Auto</string>
+                    <key>Name</key>
+                    <string>ResetSystem</string>
+                    <key>Path</key>
+                    <string>ResetSystem.efi</string>
+                    <key>RealPath</key>
+                    <true/>
+                    <key>TextMode</key>
+                    <true/>
+                </dict>
             </array>
         </dict>
         <key>NVRAM</key>
@@ -1069,7 +1109,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K840101CDFHDDUE</string>
+                <string>F5K412130GUFHDDA8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1083,9 +1123,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro6,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KXH04XF9VM</string>
+                <string>F5KMG0WLF9VM</string>
                 <key>SystemUUID</key>
-                <string>6BC626A8-F72C-4FD3-87B7-53D71CC53689</string>
+                <string>D869B5B4-33FE-4C6C-80FE-F9B9E05298FE</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
